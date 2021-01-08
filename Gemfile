@@ -9,6 +9,8 @@ gem 'rails', '~> 6.1.0'
 gem 'sqlite3', '~> 1.4'
 # Use bootstrap-sass
 gem 'bootstrap-sass', '~> 3.4.1'
+#
+gem 'bcrypt', '~>3.1.13'
 # Use Puma as the app server
 gem 'puma', '~> 5.0'
 # Use SCSS for stylesheets
